@@ -1,5 +1,5 @@
 # Image-Captioning-with-Keras
-In this project we have to use CNN (Convolution Neural Network) model called InceptionV3 and dataset Flickr-8k.
+In this project we used CNN (Convolution Neural Network) model called InceptionV3 and dataset Flickr-8k.
 
 Dataset: https://www.kaggle.com/datasets/adityajn105/flickr8k
 
